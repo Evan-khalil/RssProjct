@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feeds xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FeedTitle>svt</FeedTitle>
+  <FeedCategories>svt</FeedCategories>
+  <FeedLink>http://www.svt.se/nyheter/rss.xml</FeedLink>
+  <feedFolder>D:\RssReader\RssProjct\bin\Debug\svt\svt.xml</feedFolder>
+  <FeedUpdateIntervall>1000</FeedUpdateIntervall>
+  <EpisodeList>
+    <Episodes>
+      <EpisodeTitle>Vårddirektören: ”Det är inte här vi vill vara nu” </EpisodeTitle>
+      <EpisodeDescription>Region Östergötland har gått upp i förstärkningsläge igen och på Vrinnevisjukhuset öppnar man återigen upp covidavdelningen Diva. 
+– Läget är ytterst ansträngt säger Jessica Frisk, vårddirektör. </EpisodeDescription>
+    </Episodes>
+    <Episodes>
+      <EpisodeTitle>Unik fabrik planeras i Köpmanholmen – 50 nya arbetstillfällen</EpisodeTitle>
+      <EpisodeDescription>Företaget Cinis Fertilizer planerar att investera 550 miljoner kronor på en ny fabrik i hamnområdet Köpmanholmen söder om Örnsköldsvik. </EpisodeDescription>
+    </Episodes>
+    <Episodes>
+      <EpisodeTitle>Soligt i helgen – men kallt och mycket pollen</EpisodeTitle>
+      <EpisodeDescription>Helgen bjuder på kyligt väder i Skåne med risk för minusgrader nattetid på vissa håll. Samtidigt blir det soligt och därför risk för en hel del pollen.</EpisodeDescription>
+    </Episodes>
+    <Episodes>
+      <EpisodeTitle>Därför är aprilvädret så ombytligt</EpisodeTitle>
+      <EpisodeDescription>De senaste dagarnas varma väder är ett minne blott. Nu är det i stället blötsnö och regn på många håll i landet. Men varför är vädret i april så skiftande? Meteorolog Deana Bajic förklarar. </EpisodeDescription>
+    </Episodes>
+    <Episodes>
+      <EpisodeTitle>”Hassan” fick pengar från staten – är skyldig över en halv miljon till staten för skadestånd till brottsoffer</EpisodeTitle>
+      <EpisodeDescription>”Hassan” har en lång brottshistorik bakom sig och är skyldig staten över en halv miljon kronor för skadestånd till sina brottsoffer genom åren – pengar som han ännu inte har betalat. Trots det fick han själv drygt 40 000 kronor i skadestånd från staten för att ha suttit felaktigt frihetsberövad. 
+– Jag kan förstå att man kan tycka att det här är konstigt, säger justitiekansler Mari Heidenborg.</EpisodeDescription>
+    </Episodes>
+    <Episodes>
+      <EpisodeTitle>”Sluta slå” – Malmö testar ny metod mot våld i nära relationer</EpisodeTitle>
+      <EpisodeDescription>Malmö vill inleda försök med en variant av projektet Sluta skjut, men nu som en insats mot våld i nära relationer. Fokus ska ligga på att få män att sluta slå sina partners.</EpisodeDescription>
+    </Episodes>
+    <Episodes>
+      <EpisodeTitle>Landshövdingen om smittspridningen: ”Utvecklingen är väldigt oroande” </EpisodeTitle>
+      <EpisodeDescription>Under vecka 14 hade Västernorrland flest smittfall i landet per 100 000 invånare. Smittspridningen är störst bland barn och unga och bland människor på arbetsplatser. Landshövding Berit Högman vädjar nu till länets arbetsgivare att se över sina smittskyddsåtgärder en extra gång. </EpisodeDescription>
+    </Episodes>
+    <Episodes>
+      <EpisodeTitle>”Hoppas att turerna är över nu” </EpisodeTitle>
+      <EpisodeDescription>Byggandet av en Muminvärld på Skutberget i Karlstad blir allt mer osannolikt. Hör vad besökare och ordföranden för Skutbergets Wenner tycker om beskedet från det blågröna styret i videon.</EpisodeDescription>
+    </Episodes>
+    <Episodes>
+      <EpisodeTitle>Klass 1-varning: Upp mot 20 cm snö under fredagen</EpisodeTitle>
+      <EpisodeDescription>SMHI utfärdade under torsdagen en klass 1-varning för snöfall i Västerbotten.</EpisodeDescription>
+    </Episodes>
+    <Episodes>
+      <EpisodeTitle>Ny forskning: Skrik ut din glädje för snabbast respons</EpisodeTitle>
+      <EpisodeDescription>Länge har forskarvärlden trott att vi reagerar snabbast på skrik av rädsla. Men nu visar en ny studie att så inte är fallet. Det är enklare för oss att förstå när någon skriker av glädje, testa själv i klippet ovan.</EpisodeDescription>
+    </Episodes>
+    <Episodes>
+      <EpisodeTitle>Hyresgäster är med och sponsrar elitsatsande idrottslag</EpisodeTitle>
+      <EpisodeDescription>Hyresintäkter hos kommunala bostadsbolag används för att sponsra föreningslivet – även elitsatsande idrottslag. I Mellansverige kan det handla om uppemot 284 kronor per lägenhet. Det skriver tidningen Hem &amp; Hyra.</EpisodeDescription>
+    </Episodes>
+    <Episodes>
+      <EpisodeTitle>Stark kritik mot förslag om indragna bussturer i Halland</EpisodeTitle>
+      <EpisodeDescription>Ett hårt slag mot landsbygden och klimatet. Så beskriver Per Svensson (S), kommunstyrelsens ordförande i Falkenberg, förslaget om att dra ner på hundratals bussturer i Halland. Nu vill han att Hallandstrafiken ska dra i bromsen.
+– Vi står mitt i en pandemi, ha lite is i magen, säger han.</EpisodeDescription>
+    </Episodes>
+    <Episodes>
+      <EpisodeTitle>Omfattande sökoperation efter försvunna indonesiska ubåten</EpisodeTitle>
+      <EpisodeDescription>Indonesiens president Joko Widodo har beordrat ”optimala” sök- och räddningsinsatser efter den 40 år gamla ubåten KRI Nanggala som är försvunnen sedan i onsdags. Indonesiens marin befarar att ubåten har sjunkit till minst 600 meters djup och att frisk luft till besättningen tar slut på lördag.</EpisodeDescription>
+    </Episodes>
+    <Episodes>
+      <EpisodeTitle>Region Kalmar län förbereder nytt krislägesavtal</EpisodeTitle>
+      <EpisodeDescription>Rolf Asmundsson, pressekreterare på Region Kalmar Län, bekräftar att regionen förbereder att ansöka om KLA, krislägesavtal, hos SKR.
+– Det handläggs just nu hos regionen, mer information kommer på eftermiddagen, säger Rolf Asmundsson.</EpisodeDescription>
+    </Episodes>
+    <Episodes>
+      <EpisodeTitle>Död person hittad i skogen utanför Jönköping</EpisodeTitle>
+      <EpisodeDescription>Polisen larmades vid 12-tiden på torsdagen om att en död person hittats utomhus i skogen. Än så länge är det oklart vad som inträffat och polisen har inlett en förundersökning om mord.</EpisodeDescription>
+    </Episodes>
+    <Episodes>
+      <EpisodeTitle>Efter beskedet om nedläggning: Batterifabrik vill anställa personal från Kvarnsvedens pappersbruk</EpisodeTitle>
+      <EpisodeDescription>I veckan kom beskedet att Stora Enso vill lägga ned Kvarnsvedens pappersbruk i Borlänge. Nu vill företaget Northvolt, som bygger en stor batterifabrik i Skellefteå, anställa personalen i Borlänge för att lösa sina rekryteringsproblem: </EpisodeDescription>
+    </Episodes>
+    <Episodes>
+      <EpisodeTitle>Yli 65-vuotiaat saavat Suomessa valita roketteen</EpisodeTitle>
+      <EpisodeDescription>Eri koronarokotteiden käyttöä koskevaa ohjeistusta on muutettu useita kertoja sivuvaikutusriskien takia. Suomessa Astra Zenecan rokotteen voi nyt korvata toisella, jos on yli 65-vuotias.</EpisodeDescription>
+    </Episodes>
+    <Episodes>
+      <EpisodeTitle>Campingägaren om misstänkta mordet: ”Sånt här har vi aldrig varit med om”</EpisodeTitle>
+      <EpisodeDescription>Det var sirenerna som gjorde att Jack Rydberg, vd och ägare till Malmköpings bad och camping, förstod att något hade hänt. Han var i färd med fastighetsskötsel när gräsytan strax intill campingplatsen plötsligt fylldes av utryckningsfordon. 
+– Jag har jobbat här i 18 år och det har hänt alla möjliga saker, men något sånt här har vi aldrig varit med om, säger han. </EpisodeDescription>
+    </Episodes>
+    <Episodes>
+      <EpisodeTitle>Folkhälsomyndigheten: Över två miljoner har fått första dosen vaccin</EpisodeTitle>
+      <EpisodeDescription>Nu har över två miljoner svenskar fått minst en dos vaccin mot covid-19, uppger Folkhälsomyndigheten på torsdagen. Samtidigt varnar myndigheten för fortsatt hög smittspridning eftersom Sverige ligger högt i ett europeiskt perspektiv. </EpisodeDescription>
+    </Episodes>
+    <Episodes>
+      <EpisodeTitle>Telefonbokning för vaccinering blev överbelastad</EpisodeTitle>
+      <EpisodeDescription>I går öppnade Region Stockholm telefonbokning för den som vill boka tid på en vaccinationsmottagning men inte har möjlighet att boka digitalt. Under torsdagsförmiddagen har Södertäljebor hört av sig till SVT:s redaktion och berättat att det är svårt att hitta information, man når inte fram och att köerna är långa.</EpisodeDescription>
+    </Episodes>
+  </EpisodeList>
+</Feeds>
